@@ -16,7 +16,7 @@ The Optical Store Management System simplifies the management of optical stores 
 * **React**: Frontend library
 * **Bootstrap**: For responsive design
 * **Axios**: For HTTP requests
-* **PayPal SDK**: For payment processing
+* **PayPal SDK**: For the payment processing
 * **Google Maps API**: For map integration
 * **JSPDF**: For generating PDF reports
 
