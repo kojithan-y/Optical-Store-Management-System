@@ -1,6 +1,10 @@
 # Dependencies
 node_modules/
 
+# Local security tooling and private scan evidence
+.security-tools/
+security/reports/
+
 # Generated builds and test output
 build/
 dist/
